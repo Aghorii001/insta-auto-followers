@@ -1,6 +1,5 @@
  #Inshackle 
 # Instagram bot,auto follower
-## Recoded: github.com/cyberkallan/inshackle-bot
 ## IG: https://instagram.com/raw_be001
 ### Don't copy this code without give me the credits, nerd! Please read the License 
 ### thanks to linuxchoice
